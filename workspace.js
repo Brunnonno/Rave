@@ -587,7 +587,7 @@ parcelRequire = function(e, r, t, n) {
                     document.title = "Baila co Pai!"
                 });
                 var d = document.createElement("button");
-                d.textContent = "Clica aqui Corno",
+                d.textContent = "Clica aqui Corno!",
                 d.addEventListener("click", function(e) {
                     d.parentNode.removeChild(d),
                     i.appendChild(o),
