@@ -585,6 +585,8 @@ parcelRequire = function(e, r, t, n) {
                     a.element.classList.add("cue-in"),
                     a.element.style.display = "block",
                     document.title = "LET'S GO BABY 😎!"
+                    Form.setIconImage("logo.png")
+                    
                 });
                 var d = document.createElement("button");
                 d.textContent = "Clique aqui e relaxe!",
