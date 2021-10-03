@@ -584,10 +584,10 @@ parcelRequire = function(e, r, t, n) {
                     o.parentNode.removeChild(o),
                     a.element.classList.add("cue-in"),
                     a.element.style.display = "block",
-                    document.title = "Baila co Pai!"
+                    document.title = "LET'S GO BABY 😎!"
                 });
                 var d = document.createElement("button");
-                d.textContent = "Clica aqui Corno!",
+                d.textContent = "Clique aqui e relaxe!",
                 d.addEventListener("click", function(e) {
                     d.parentNode.removeChild(d),
                     i.appendChild(o),
